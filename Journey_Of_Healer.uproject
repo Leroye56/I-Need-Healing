@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5E5A1ED4-4151-1156-45EF-9EBEE2AF23C6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Journey_Of_Healer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject",
+				"AIModule",
+				"UMG"
+			]
+		}
+	]
+}
